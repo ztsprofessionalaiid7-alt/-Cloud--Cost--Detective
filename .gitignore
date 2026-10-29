@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+.pytest_cache/
+data/hf_*.csv
+data/focus_*
+test_results.txt
